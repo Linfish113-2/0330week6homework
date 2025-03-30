@@ -30,7 +30,7 @@ The dataset includes the following columns:
 
 You can view the Looker Studio report on the teacher data here:
 
-[Looker Studio Report - Teacher Data](https://your-shared-link.com)
+[Looker Studio Report - Teacher Data](https://lookerstudio.google.com/s/hFWhMqY4_38))
 
 The report includes visualizations such as:
 - Teacher count trends across different school types (Senior High, Junior High, and Elementary Schools).
